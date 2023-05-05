@@ -1,4 +1,4 @@
-﻿' Make sure yoor fromCityt and toCity are not the same city
+﻿' Make sure your fromCity and toCity are not the same city
 ' Also, verify that the flight date is in the future - you cannot book tickets in the past
 WpfWindow("Micro Focus MyFlight Sample").WpfComboBox("fromCity").Select DataTable("fromCity", dtGlobalSheet) @@ hightlight id_;_1926781056_;_script infofile_;_ZIP::ssf4.xml_;_
 WpfWindow("Micro Focus MyFlight Sample").WpfComboBox("toCity").Select DataTable("toCity", dtGlobalSheet) @@ hightlight id_;_1954316040_;_script infofile_;_ZIP::ssf6.xml_;_
